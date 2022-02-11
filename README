@@ -1,0 +1,10 @@
+-> lấy cookie theo link dưới lưu vào file appstate.json
+https://www.youtube.com/watch?v=y9_yd5a3scM
+
+require:
+- mongodb
+- node
+
+run: 
+- npm install
+- node index.js
